@@ -15,7 +15,7 @@
 •	Improved medical equipment data quality by 10% by writing Python code for imputation and outlier detection, enabling reliable analysis for proactive maintenance of high-risk equipment.
 •	Collaborated with cross-functional IT and product teams, monitoring and maintaining data quality to ensure compliance with privacy policies, leading to a 10% reduction in data accessibility and scalability issues.
 
-#PROJECTS
+# PROJECTS
 
 CO2 Emissions Forecasting from Electricity Generation | Sustainability                                                                                  Feb 2024 – May 2024                                                                                                                             
 •	Developed a CO2 emission forecasting model using Seasonal ARIMA, achieving an RMSE of 3.79 for 10-year predictions.
